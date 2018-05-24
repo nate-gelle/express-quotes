@@ -1,0 +1,24 @@
+{
+  "name": "express-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-gelle/express-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-gelle/express-quotes/issues"
+  },
+  "homepage": "https://github.com/nate-gelle/express-quotes#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
